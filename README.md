@@ -117,7 +117,7 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
 1. Clone this repository:
 
     ```
-    git clone https://github.com/trailheadapps/lwc-recipes
+    git clone https://github.com/Mahesh7741/Lightning-Web-Components-Recipes
     cd lwc-recipes
     ```
 

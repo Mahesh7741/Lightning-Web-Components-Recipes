@@ -1,20 +1,11 @@
 # Lightning Web Components Recipes
 
-[![CI](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml) [![Packaging](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
-
-![recipes-logo](recipes-logo.png)
 
 A collection of easy-to-digest code examples for Lightning Web Components. Each recipe demonstrates how to code a specific task in the fewest lines of code possible while following best practices. A "View Source" link takes you directly to the code on GitHub. From "Hello World" to data access and third-party libraries, there's a recipe for that!
 
-<div>
-    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-lwc-recipes-app/bb501c3216ac163958f036fb90357955_badge.png" align="left" alt="Trailhead Badge"/>
-    Learn more about this app by completing the <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-lwc-recipes-app">Quick Start: Explore the LWC Recipes Sample App</a> Trailhead project or by watching this <a href="https://www.youtube.com/watch?v=lK3NOZGc5fg&list=PLgIMQe2PKPSJcuCwM61dEc4jFG_jHqV2t&index=3">short presentation video</a>.
-    <br/>
-    <br/>
-    <br/>
-</div>
 
-> This sample application is designed to run on Salesforce Platform. If you want to experience Lightning Web Components on any platform, please visit https://lwc.dev, and try out our Lightning Web Components sample application [LWC Recipes OSS](https://github.com/trailheadapps/lwc-recipes-oss).
+
+> This sample application is designed to run on Salesforce Platform. If you want to experience Lightning Web Components on any platform, please visit https://lwc.dev, and try out our Lightning Web Components sample application [LWC Recipes OSS]
 
 ## Table of contents
 

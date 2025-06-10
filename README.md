@@ -37,7 +37,7 @@ A collection of easy-to-digest code examples for Lightning Web Components. Each 
 1. Clone the lwc-recipes repository:
 
     ```
-    git clone https://github.com/trailheadapps/lwc-recipes
+    git clone https://github.com/Mahesh7741/Lightning-Web-Components-Recipes
     cd lwc-recipes
     ```
 
